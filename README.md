@@ -108,3 +108,6 @@ footer{
     padding-right:60px;
   }
   ```
+# RESULT
+
+The program for designing book cover page using HTML and CSS is executed successfully
